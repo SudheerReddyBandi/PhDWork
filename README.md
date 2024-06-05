@@ -2,6 +2,7 @@
 As my image size is 64x64, the proposed code is converted accordingly.
 
 The codes are available in many repositories such as
+
 https://github.com/rasbt/deeplearning-models/tree/master/pytorch_ipynb/cnn
 
 https://github.com/hbhasin/Image-Recognition-with-Deep-Learning
