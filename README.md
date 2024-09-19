@@ -22,3 +22,5 @@ https://www.kaggle.com/code/shivamb/cnn-architectures-vgg-resnet-inception-tl
 https://www.kaggle.com/code/vencerlanz09/98-fire-classification-cnn-mobilenetv2
 
 https://github.com/agarwl/siamese-transfer-learning
+
+https://github.com/yuliu316316/CNN-Fusion (Contribution 2)
